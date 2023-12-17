@@ -1,0 +1,16 @@
+C:\Advanced .Net\Project\BLL\bin\Debug\BLL.dll
+C:\Advanced .Net\Project\BLL\bin\Debug\BLL.pdb
+C:\Advanced .Net\Project\BLL\bin\Debug\AutoMapper.dll
+C:\Advanced .Net\Project\BLL\bin\Debug\BEL.dll
+C:\Advanced .Net\Project\BLL\bin\Debug\DAL.dll
+C:\Advanced .Net\Project\BLL\bin\Debug\EntityFramework.dll
+C:\Advanced .Net\Project\BLL\bin\Debug\BEL.pdb
+C:\Advanced .Net\Project\BLL\bin\Debug\DAL.pdb
+C:\Advanced .Net\Project\BLL\bin\Debug\DAL.dll.config
+C:\Advanced .Net\Project\BLL\bin\Debug\AutoMapper.xml
+C:\Advanced .Net\Project\BLL\bin\Debug\EntityFramework.xml
+C:\Advanced .Net\Project\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Advanced .Net\Project\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Advanced .Net\Project\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Advanced .Net\Project\BLL\obj\Debug\BLL.dll
+C:\Advanced .Net\Project\BLL\obj\Debug\BLL.pdb
